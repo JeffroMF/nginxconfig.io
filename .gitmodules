@@ -1,0 +1,3 @@
+[submodule "node-ios-device"]
+	path = node-ios-device
+	url = ssh://git@github.com/tidev/node-ios-device
